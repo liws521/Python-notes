@@ -59,6 +59,9 @@ mylist2 = [x for x in range(1, 10)]
 mylist3 = [x + y for x in 'ABC' for y in '12']
 ```
 
+## tuple
+- 
+
 # function
 ```python
 # default value is permitted
